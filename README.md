@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tour Virtual Baños de Agua Santa
 
 Proyecto Club CIA (Grupo MOSSAD) • 2025
@@ -110,3 +111,6 @@ El proyecto está configurado para desplegarse en Netlify. Para otros proveedore
 ## Soporte
 
 Para soporte técnico, contacta al equipo de desarrollo del Club CIA.
+=======
+# project
+>>>>>>> bd307640ec9a8f735e76cf41aa714dcb2fe7d804
